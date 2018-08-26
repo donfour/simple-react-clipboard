@@ -2,7 +2,7 @@
   "name": "simple-react-clipboard",
   "version": "1.0.0",
   "description": "A simple and flexible React utility component for copying texts to the clipboard.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "dev": "concurrently \"npm run lib:watch\" \"npm run docs\"",
     "lib": "babel src/lib -d lib --copy-files",
