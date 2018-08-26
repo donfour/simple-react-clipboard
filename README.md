@@ -1,4 +1,4 @@
-# Flexible React Clipboard
+# Simple React Clipboard
 
 A simple and flexible React utility component for copying texts to the clipboard.
 
