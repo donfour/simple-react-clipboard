@@ -40,3 +40,15 @@ Name | Type | Description | Required
 `props` | `object` | `props` to pass to the component in `render` | N
 `onSuccess` | `function` | Function called after when `copy` succeeds. | N
 `onError` | `function` | Function called after `copy` fails. | N
+
+## To Run this Repository
+
+1. `git clone https://github.com/donfour/simple-react-clipboard.git`
+3. `npm install`
+4. `npm run dev`
+
+## To Test this Repository
+
+```
+npm run test
+```

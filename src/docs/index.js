@@ -20,7 +20,7 @@ class Demo extends React.Component{
 
         <div className='header'>
           <span className='title'>Simple React Clipboard</span>
-          <a className='link' href='#'>Github</a>
+          <a className='link' href='https://github.com/donfour/simple-react-clipboard'>Github</a>
         </div>
 
         <div className='body'>
