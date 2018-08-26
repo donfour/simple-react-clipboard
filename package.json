@@ -1,6 +1,6 @@
 {
   "name": "simple-react-clipboard",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple and flexible React utility component for copying texts to the clipboard.",
   "main": "lib/index.js",
   "scripts": {
@@ -15,8 +15,8 @@
   "author": "Donovan So",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/donfour/simple-react-clipboard"
+    "type": "git",
+    "url": "https://github.com/donfour/simple-react-clipboard"
   },
   "peerDependencies": {
     "react": "^16.4.2",
