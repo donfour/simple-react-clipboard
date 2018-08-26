@@ -1,1 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 
+body {
+  margin: 0;
+}
+
+h2, p, .header * {
+  font-family: 'Roboto Slab', sans-serif;
+}
+
+.header {
+  background-color: #F7882F;
+  padding: 10px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.body {
+  padding: 10px 100px;
+}
+
+.title {
+  font-size: 25px;
+  color: white;
+}
+
+.link {
+  color: white
+}

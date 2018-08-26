@@ -1,7 +1,7 @@
 {
-  "name": "flexible-react-clipboard",
+  "name": "simple-react-clipboard",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple and flexible React utility component for copying texts to the clipboard.",
   "main": "index.js",
   "scripts": {
     "dev": "concurrently \"npm run lib:watch\" \"npm run docs\"",
@@ -12,8 +12,8 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Donovan So",
+  "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "react-dom": "^16.4.2",
+    "react-syntax-highlighter": "^8.0.1"
   }
 }
