@@ -27,12 +27,6 @@ Demo and sample code can be found [here](http://donfour.github.io/simple-react-c
 
 ## Props
 
-render: PropTypes.func.isRequired
-text: PropTypes.string.isRequired
-props: PropTypes.object
-onSuccess: PropTypes.func
-onError: PropTypes.func
-
 Name | Type | Description | Required
 --- | --- | --- | ---
 `render` | `function` | A function that returns a React element. | Y
