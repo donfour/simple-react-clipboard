@@ -29,7 +29,7 @@ class Demo extends React.Component{
             <h2>Copy on Button Click</h2>
             <p>
               The most common use case for the library.
-              The component passed in the <code>render</code> prop will have <code>copy</code> function passed in as a prop.
+              The component passed in the <code>render</code> prop will have the <code>copy</code> function passed in as a prop.
               The <code>copy</code> function will copy the <code>text</code> prop to the clipboard.
             </p>
             <Clipboard
