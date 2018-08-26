@@ -3,6 +3,9 @@
 A simple and flexible React utility component for copying texts to the clipboard. Some code is based on [clipboard.js](https://github.com/zenorocha/clipboard.js).
 
 ## Getting Started
+```
+npm i simple-react-clipboard
+```
 
 The component passed in the `render` prop will have the `copy` function passed in as a prop.
 The `copy` function will copy the `text` prop to the clipboard.
@@ -32,8 +35,8 @@ Name | Type | Description | Required
 `render` | `function` | A function that returns a React element. | Y
 `text` | `string` | The text to be copied when `copy` is called. | Y
 `props` | `object` | `props` to pass to the component in `render` | N
-`onSuccess` | `function` | Function called after when `copy` succeeds. | N
-`onError` | `function` | Function called after `copy` fails. | N
+`onSuccess` | `function` | Function called when `copy` succeeds. | N
+`onError` | `function` | Function called when `copy` fails. | N
 
 ## To Run this Repository
 
