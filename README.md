@@ -2,6 +2,11 @@
 
 A simple and flexible React utility component for copying texts to the clipboard. [Demo and sample code here](http://donfour.github.io/simple-react-clipboard).
 
+## Why This?
+
+Existing React clipboard libraries are restrictive (e.g. you can only trigger copy on click / you must render a button or a span).
+Simple React Clipboard allows you to trigger `copy` whenever and however you want, with whatever component that fits your use case.
+
 ## Getting Started
 ```
 npm i simple-react-clipboard
