@@ -1,6 +1,6 @@
 # Simple React Clipboard
 
-A simple and flexible React utility component for copying texts to the clipboard. [Demo and sample code here](http://donfour.github.io/simple-react-clipboard).
+A simple and flexible React utility component for copying texts to the clipboard. [Demo and sample code here](https://donfour.github.io/simple-react-clipboard).
 
 ## Why This?
 
